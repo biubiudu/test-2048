@@ -1,4 +1,4 @@
-FROM hub.ecns.io/longfei-demo/alpine:latest
+FROM hub.ecns.io/yunjie.du.test/alpine:latest 
 
 COPY 2048 /var/lib/nginx/html/
 
